@@ -1,0 +1,66 @@
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.exe
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.deps.json
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.runtimeconfig.json
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.runtimeconfig.dev.json
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.dll
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.pdb
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.dll
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.pdb
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.genruntimeconfig.cache
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form_sql_deneme.Form1.resources
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csproj.CopyComplete
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.exe
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.deps.json
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.runtimeconfig.json
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.runtimeconfig.dev.json
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.dll
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.pdb
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csprojAssemblyReference.cache
+D:\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form_sql_deneme.Form1.resources
+D:\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csproj.GenerateResource.cache
+D:\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.AssemblyInfoInputs.cache
+D:\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.AssemblyInfo.cs
+D:\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csproj.CoreCompileInputs.cache
+D:\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csproj.CopyComplete
+D:\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.dll
+D:\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.pdb
+D:\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.genruntimeconfig.cache
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.exe
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.deps.json
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.runtimeconfig.json
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.runtimeconfig.dev.json
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.dll
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\form+sql deneme.pdb
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csprojAssemblyReference.cache
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form_sql_deneme.Form1.resources
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csproj.GenerateResource.cache
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.AssemblyInfoInputs.cache
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.AssemblyInfo.cs
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csproj.CoreCompileInputs.cache
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.csproj.CopyComplete
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.dll
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.pdb
+D:\Yedek\csharpcodes\form+sql deneme\form+sql deneme\obj\Debug\netcoreapp3.1\form+sql deneme.genruntimeconfig.cache
